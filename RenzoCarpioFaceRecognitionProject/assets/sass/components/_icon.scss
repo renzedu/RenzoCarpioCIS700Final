@@ -1,0 +1,17 @@
+///
+/// CIS 700 Machine Learning
+/// Final Project | @Renzo Carpio
+/// 
+///
+
+/* Icon */
+
+	.icon {
+		@include icon;
+		border-bottom: none;
+		position: relative;
+
+		> .label {
+			display: none;
+		}
+	}
