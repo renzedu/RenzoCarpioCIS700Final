@@ -1,5 +1,4 @@
-Creative Commons Attribution 3.0 Unported
-http://creativecommons.org/licenses/by/3.0/
+CIS 700 Machine Learning - Final Project - Renzo Carpio
 
 License
 
