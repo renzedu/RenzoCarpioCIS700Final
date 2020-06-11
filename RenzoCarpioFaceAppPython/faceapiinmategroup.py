@@ -18,7 +18,7 @@ import pyodbc
 server = 'rccis700mldbserver.database.windows.net'
 database = 'RCCIS700MLIllinoisInmates'
 username = 'renzo'
-password = 'basic123.'
+password = 'basic123'
 driver= '{ODBC Driver 17 for SQL Server}'
 cnxn = pyodbc.connect('DRIVER='+driver+';SERVER='+server+';PORT=1433;DATABASE='+database+';UID='+username+';PWD='+ password)
 
@@ -26,7 +26,7 @@ cnxn = pyodbc.connect('DRIVER='+driver+';SERVER='+server+';PORT=1433;DATABASE='+
 # Set the FACE_SUBSCRIPTION_KEY environment variable with your key as the value.
 # This key will serve all examples in this document.
 # KEY = os.environ['1f1061e61cee4ec5b32f4c331575a4e9']
-KEY = 'e6bc70b24abc4143b84128b17432617a'
+KEY = '10e6bc70b24abc4143b84128b17432617a'
 
 # Set the FACE_ENDPOINT environment variable with the endpoint from your Face service in Azure.
 # This endpoint will be used in all examples in this quickstart.

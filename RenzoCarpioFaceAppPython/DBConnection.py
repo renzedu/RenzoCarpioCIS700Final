@@ -3,7 +3,7 @@ import pyodbc
 server = 'rccis700mldbserver.database.windows.net'
 database = 'RCCIS700MLIllinoisInmates'
 username = 'renzo'
-password = 'basic123.'
+password = 'basic123'
 driver= '{ODBC Driver 17 for SQL Server}'
 cnxn = pyodbc.connect('DRIVER='+driver+';SERVER='+server+';PORT=1433;DATABASE='+database+';UID='+username+';PWD='+ password)
 cursor = cnxn.cursor()
