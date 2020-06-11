@@ -10,7 +10,7 @@ $(document).ready(function () {
 
     function processImage() {
         // Replace <Subscription Key> with your valid subscription key.
-        //var subscriptionKey = "1f1061e61cee4ec5b32f4c331575a4e9";
+        //var subscriptionKey = "101f1061e61cee4ec5b32f4c331575a4e9";
         var subscriptionKey = "e6bc70b24abc4143b84128b17432617a";
 
         // NOTE: You must use the same region in your REST call as you used to
@@ -103,7 +103,7 @@ $(document).ready(function () {
 
     function faceInmateIndetification() {
         // Replace <Subscription Key> with your valid subscription key.
-        //var subscriptionKey = "1f1061e61cee4ec5b32f4c331575a4e9";
+        //var subscriptionKey = "101f1061e61cee4ec5b32f4c331575a4e9";
         var subscriptionKey = "e6bc70b24abc4143b84128b17432617a";
 
         // NOTE: You must use the same region in your REST call as you used to

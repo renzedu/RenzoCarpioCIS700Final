@@ -8,7 +8,7 @@ $(document).ready(function () {
         var faceIdentifiedID = "";
 
         // Replace <Subscription Key> with your valid subscription key.
-        var subscriptionKey = "1f1061e61cee4ec5b32f4c331575a4e9";
+        var subscriptionKey = "101f1061e61cee4ec5b32f4c331575a4e9";
 
         // NOTE: You must use the same region in your REST call as you used to
         // obtain your subscription keys. For example, if you obtained your
@@ -83,7 +83,7 @@ $(document).ready(function () {
 
     function verifyImage() {
         // Replace <Subscription Key> with your valid subscription key.
-        var subscriptionKey = "1f1061e61cee4ec5b32f4c331575a4e9";
+        var subscriptionKey = "101f1061e61cee4ec5b32f4c331575a4e9";
 
         // NOTE: You must use the same region in your REST call as you used to
         // obtain your subscription keys. For example, if you obtained your
