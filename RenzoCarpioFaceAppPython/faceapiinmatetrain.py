@@ -9,8 +9,8 @@ from azure.cognitiveservices.vision.face.models import TrainingStatusType, Perso
 
 
 
-# Set the FACE_SUBSCRIPTION_KEY environment variable with your key as the value.
-# This key will serve all examples in this document.
+# Set the FACE_SUBSCRIPTION_KEY environment variable with your key as the value. 
+# This key will serve all examples in this document. (V3)
 # KEY = os.environ['1f1061e61cee4ec5b32f4c331575a4e9']
 KEY = '10e6bc70b24abc4143b84128b17432617a'
 

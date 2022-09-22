@@ -1,4 +1,4 @@
-CIS 700 Machine Learning
+CIS 700 Machine Learning (V3)
 Final Project | @Renzo Carpio
 
 
